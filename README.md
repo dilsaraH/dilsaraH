@@ -1,7 +1,21 @@
-<h1 align="center">Hello I'm 👋 Dilsara Hansaja</h1>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <br><br>
+  
+<h1><p align="center">Hello, I'm Dilsara Hansaja! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+
 <h3 align="justify">I'm a passionate tech enthusiast currently pursuing a BSc (Hons) in Information Technology with a specialization in Cybersecurity. I enjoy diving into web development projects and exploring the world of software security.</h3>
 
 - 🌱 Learning more about: **Cybersecurity, JavaScript, and web development.**
+
+  <div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
