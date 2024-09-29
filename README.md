@@ -1,5 +1,7 @@
-<h1 align="center">Hello 👋 I'm Dilsara</h1>
-<h3 align="center">Coding Enthusiast👨‍💻</h3>
+<h1 align="center">Hello I'm 👋 Dilsara Hansaja</h1>
+<h3 align="justify">I'm a passionate tech enthusiast currently pursuing a BSc (Hons) in Information Technology with a specialization in Cybersecurity. I enjoy diving into web development projects and exploring the world of software security.</h3>
+
+- 🌱 Learning more about: **Cybersecurity, JavaScript, and web development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
